@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(247, 240, 240);
+}
+#section { 
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.section {
+    margin: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#h1{
+    color: brown;
+    text-align: center;
+}
+.h1{
+    color: red;
+}
+#h2-likes {
+    color: brown;
+}
+.h2-likes {
+    color: red;
+    text-align: end;
+}
+#ol-likes-list{
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+.ol-likes-list{
+    font-size: 100px;
+    padding-bottom: 100px;
+}
+#likes-list{
+    padding-top: 20px;
+    color: navy;
+}
+.likes-list {
+    padding-top: 20px;
+    color: red;
+}
+#h2-dislikes {
+    color: brown;
+}
+.h2-dislikes {
+    color: red;
+    text-align: end;
+}
+#ul-likes-list {
+    font-size: 20px;
+}
+.ul-likes-list {
+    font-size: 100px;
+}
+#dislikes-list {
+    padding-top: 20px;
+    color: navy;
+}
+.dislikes-list {
+    padding-top: 20px;
+    color: red;
+}
